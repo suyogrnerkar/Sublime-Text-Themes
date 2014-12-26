@@ -5,8 +5,8 @@ Custom Made , Handcrafted Sublime Text 2/3 Themes :P
 
 
 
-				CONTENT INDEX 
-		(In Proir For Future Additions):
+									CONTENT INDEX 
+							(In Proir For Future Additions):
 
 1) ApotheosisX -  Sublime Text 2/3 & TextMate Theme
 				  Release Version : 1.0.0
@@ -15,9 +15,19 @@ Custom Made , Handcrafted Sublime Text 2/3 Themes :P
 2) To be added Soon :)
 
 
+
+									STEPS TO INSTALL
+
+1) Download the ApotheosisX.tmTheme file from the repository whichever way you may prefer.
+2) Move the downloaded file to ~/.config/sublime-text-3/Packages/ApotheosisX
+3) Restart Sublime Text.
+4) Select the theme from Preferences >> Color Scheme >> ApotheosisX
+5) Enjoy !
+
+
+
 Liked it? Spread the word, 
 Hate it? Let me know what needs to be improved!
-
 
 
 
