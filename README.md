@@ -6,7 +6,7 @@ Custom Made , Handcrafted Sublime Text 2/3 Themes :P
 
 
 									 CONTENT INDEX 
-							(In Proir For Future Additions):
+							(In Prior For Future Additions):
 
 1) ApotheosisX -  Sublime Text 2/3 & TextMate Theme   
 				  Release Version : 1.0.0   
