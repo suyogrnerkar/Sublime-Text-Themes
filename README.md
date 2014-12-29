@@ -10,9 +10,13 @@ Custom Made , Handcrafted Sublime Text 2/3 Themes :P
 
 1) ApotheosisX -  Sublime Text 2/3 & TextMate Theme   
 				  Release Version : 1.0.0   
-				  Tested to work fine with Sublime Text 3.   
+				  Tested to work fine with Sublime Text 2/3.   
 
-2) To be added Soon :)   
+2) ApotheosisxRevamped - ApotheosisX Sublime Text 2/3 Theme with a Bit Darker Color Combinations
+				  Release Version : 1.0.0   
+				  Tested to work fine with Sublime Text 2/3.   
+
+3) To be added Soon :)   
 
 
 
