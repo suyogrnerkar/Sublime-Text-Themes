@@ -12,7 +12,7 @@ Custom Made , Handcrafted Sublime Text 2/3 Themes :P
 				  Release Version : 1.0.0   
 				  Tested to work fine with Sublime Text 2/3.   
 
-2) ApotheosisxRevamped - ApotheosisX Sublime Text 2/3 Theme with a Bit Darker Color Combinations
+2) ApotheosisxRevamped - ApotheosisX Sublime Text 2/3 Theme with a Bit Darker Color Combinations    
 				  Release Version : 1.0.0   
 				  Tested to work fine with Sublime Text 2/3.   
 
